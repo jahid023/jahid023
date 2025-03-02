@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jahid023
-- 👀 I’m interested in Software development and Cyber security
+- 👀 I’m interested in web development, Software development and Cyber security
 - 🌱 I’m currently learning react JS and Problem solving
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me - Linkedin : https://www.linkedin.com/in/md-jahid-2303812b8/
